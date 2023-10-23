@@ -1,6 +1,5 @@
 # User-Product-app
-
-Welcome to the User Product App repository! This is a simple web application built using Java technologies like Hibernate, Servlets, and MySQL.
+This is a simple web application built using Java technologies like Hibernate, Servlets, and MySQL.
 
 ## Introduction
 
